@@ -1,0 +1,13 @@
+{
+    "name": "sruellinton/buscador-cursos",
+    "description": "Projeto que busca os cursos no site da alura",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SrUellinton",
+            "email": "uellinton.19@gmail.com"
+        }
+    ],
+    "require": {}
+}
